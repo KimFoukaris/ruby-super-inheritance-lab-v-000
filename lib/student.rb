@@ -1,5 +1,5 @@
 class Student
-  def initialize 
+  def initialize
 
   end
 
